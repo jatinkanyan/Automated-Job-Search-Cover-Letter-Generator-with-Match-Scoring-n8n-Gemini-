@@ -108,14 +108,4 @@ This project is open source and available under the MIT License.
 
 Jatin Kanyan
 
----
 
-## Screenshots & Demos
-
-*(Add screenshots for the n8n workflow, example Google Sheet, and sample email notifications here once available)*
-
----
-
-## Contributions & Feedback
-
-Contributions, issues, and feature requests are welcome. Feel free to fork the repo and create pull requests or open issues for discussion.
